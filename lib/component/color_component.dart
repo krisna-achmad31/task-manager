@@ -1,0 +1,56 @@
+import 'dart:ui';
+
+const primaryColor50 = Color(0xFFE9F2FC);
+const primaryColor100 = Color(0xFFD3E4F8);
+const primaryColor200 = Color(0xFFA7C9F1);
+const primaryColor300 = Color(0xFF7CAEEB);
+const primaryColor400 = Color(0xFF5093E4);
+const primaryColor500 = Color(0xFF2478DD);
+const primaryColor600 = Color(0xFF1D60B1);
+const primaryColor700 = Color(0xFF164885);
+const primaryColor800 = Color(0xFF0E3058);
+const primaryColor900 = Color(0xFF07182C);
+const secondaryColor50 = Color(0xFFECFBF6);
+const secondaryColor100 = Color(0xFFDAF6EC);
+const secondaryColor200 = Color(0xFFB5EDD9);
+const secondaryColor300 = Color(0xFF8FE5C7);
+const secondaryColor400 = Color(0xFF6ADCB4);
+const secondaryColor500 = Color(0xFF45D3A1);
+const secondaryColor600 = Color(0xFF37A981);
+const secondaryColor700 = Color(0xFF297F61);
+const secondaryColor800 = Color(0xFF1C5440);
+const secondaryColor900 = Color(0xFF0E2A20);
+const secondaryColor = Color(0xFF001737);
+const thirdColor50 = Color(0xFFF1F2F3);
+const thirdColor100 = Color(0xFFE4E4E7);
+const thirdColor200 = Color(0xFFC8C9D0);
+const thirdColor300 = Color(0xFFADAEB8);
+const thirdColor400 = Color(0xFF9193A1);
+const thirdColor500 = Color(0xFF858796);
+const thirdColor600 = Color(0xFF5E606E);
+const thirdColor700 = Color(0xFF474852);
+const thirdColor800 = Color(0xFF2F3037);
+const thirdColor900 = Color(0xFF18181B);
+const accentErrorColor = Color(0xFFD35249);
+const accentWarningColor = Color(0xFFFA8532);
+const accentInformationColor = Color(0xFF00B8D4);
+const accentSuccessColor = Color(0xFF12B76A);
+const accentSuccessColor50 = Color(0xFFECFDF3);
+const accentErrorColor50 = Color(0xFFFAEBEA);
+const accentWarningColor50 = Color(0xFFFEF0E6);
+const accentSuccessColor500 = Color(0xFF12B76A);
+const accentErrorColor500 = Color(0xFFD35249);
+const accentSuccessColor700 = Color(0xFF027A48);
+const accentErrorColor700 = Color(0xFF7B241E);
+const textWhiteColor = Color(0xFFFFFFFF);
+const textBlackColor = Color(0xFF000000);
+const backgroundColor = Color(0xFFF5F5F5);
+const textPrimaryColor = Color(0xFF191919);
+const textSecondaryColor = Color(0xFF71747D);
+const tabBackground = Color(0xFFF4F7FC);
+
+
+
+const bgCardAutomationParent = Color(0xFF34B4E4);
+const bgCardAutomationChild = Color(0xFFF7976D);
+const toggleColorOn = Color(0xFF0181B1);
